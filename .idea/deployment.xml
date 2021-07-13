@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="bergblick.rizner.dev">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="demo-advanced">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="demo.pimcore-unofficial.org">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="ebill.pimcore-unofficial.org">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="genino.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="larte.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="login.rizner.dev">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="marettimo.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mozziattischlumpf.local">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="nav-demo-project">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="newsletter.pimcore-unofficial.org">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pizzeria-magno.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pizzeria-magno.rizner.dev">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pizzeria-magno.rizner.dev (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="restaurant">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="rizner.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="rizner.dev">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="shop.genussdealer.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="temp-test-project">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wasserwelt.at">
+        <serverdata>
+          <mappings>
+            <mapping local="$USER_HOME$/Desktop/UTM-Decorate.js" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
